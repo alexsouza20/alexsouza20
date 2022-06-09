@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexsouza20
-- 👀 I’m interested in software
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate algorithm and programming
 - 📫 How to reach me @alexsouza8117
